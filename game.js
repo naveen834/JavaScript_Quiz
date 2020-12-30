@@ -16,7 +16,7 @@ let questions = [
     choice1: '2',
     choice2: '4',
     choice3: '21',
-    choice: '17',
+    choice4: '17',
     answer: 2,
   },
   {
@@ -24,7 +24,7 @@ let questions = [
     choice1: 'Dubai',
     choice2: 'New York',
     choice3: 'Shanghai',
-    choice: 'None of the Above',
+    choice4: 'None of the Above',
     answer: 1,
   },
   {
@@ -33,7 +33,7 @@ let questions = [
     choice1: '20%',
     choice2: '10',
     choice3: '7%',
-    choice: '25%',
+    choice4: '25%',
     answer: 3,
   },
   {
