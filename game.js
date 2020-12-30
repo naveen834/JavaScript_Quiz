@@ -41,7 +41,7 @@ let questions = [
     choice1: '10-20%',
     choice2: '5-10%',
     choice3: '15-20%',
-    choice: '20-25%',
+    choice4: '20-25%',
     answer: 1,
   },
 ];
